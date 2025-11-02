@@ -8,7 +8,8 @@ The content, including the **signature image, profile picture, and repository fi
 
 ### Screenshot of v.1.0.0 
 
-![Example of v.1.0.0](https://github.com/user-attachments/assets/14d1c325-3ffb-49bd-b4db-61899d1c878b)
+![Example of v.1.0.0](https://github.com/user-attachments/assets/34a85e89-bff2-4314-9700-19788022fc52)
+
 
 ## ⚠️ **Copyright & Usage Restrictions**  
 
